@@ -1,1 +1,1 @@
-# ChatClient_Server
+# java chat Application
