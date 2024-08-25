@@ -62,5 +62,5 @@ Run the server: Start the ChatServer.
 Connect clients: Run ChatClient on different devices.
 Chat: Type messages in any client's terminal, and they will appear on all other clients' terminals.
 
-![Alt text](Screenshot 2024-08-25 210513.png)
+![Alt text](https://github.com/CosmicViraj/ChatClient_Server/blob/main/Screenshot%202024-08-25%20210513.png)
 
